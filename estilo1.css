@@ -1,9 +1,9 @@
 .subrayado {
-  color:hsl(261, 100%, 33%);
+  color:red;
   text-decoration:underline;
 }
 .tachado {
-  color:hsl(261, 100%, 33%);
+  color:green;
   text-decoration:line-through;
 
 }
